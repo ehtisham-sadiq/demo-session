@@ -3,3 +3,4 @@
 
 
 ## Content of new-branch.
+## Line added through github terminal or code editor.
